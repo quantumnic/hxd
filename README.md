@@ -27,7 +27,7 @@ A modern terminal hex editor written in pure Rust.
 cargo install hxd
 
 # Or via Homebrew
-brew tap redbasecap-buiss/tap
+brew tap quantumnic/tap
 brew install hxd
 ```
 
