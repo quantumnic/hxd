@@ -24,11 +24,11 @@ A modern terminal hex editor written in pure Rust.
 ## Installation
 
 ```bash
-cargo install hxd
+cargo install --git https://github.com/quantumnic/hxd
 
-# Or via Homebrew
-brew tap quantumnic/tap
-brew install hxd
+# Or build from source
+git clone https://github.com/quantumnic/hxd && cd hxd
+cargo build --release   # binary at target/release/hxd
 ```
 
 ## Usage
