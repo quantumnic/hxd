@@ -1,5 +1,7 @@
 # hxd ⚡🔬
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/redbasecap)
+
 A modern terminal hex editor written in pure Rust.
 
 **xxd meets vim** — interactive editing, not just viewing.
